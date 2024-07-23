@@ -1,0 +1,1 @@
+# sm-mechanical-gears-task3
