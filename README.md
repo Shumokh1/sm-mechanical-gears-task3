@@ -31,4 +31,6 @@ To achieve an overall gear ratio of 18:1, one possible set of teeth counts for t
 
 ## Demo
 
+https://github.com/user-attachments/assets/0131f20a-c0c3-41c4-ba8e-8ab9e5a740af
+
 
