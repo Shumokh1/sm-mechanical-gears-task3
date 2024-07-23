@@ -34,3 +34,22 @@ To achieve an overall gear ratio of 18:1, one possible set of teeth counts for t
 https://github.com/user-attachments/assets/0131f20a-c0c3-41c4-ba8e-8ab9e5a740af
 
 
+## How to Use the Gears Generator Website
+
+To create and simulate your own gear trains, you can use the gears generator website: https://geargenerator.com/#200,200,50,6,0,1,2295.599999999836,4,1,5,1.25,4,20,0,0,0,0,0,0,0,30,7.5,4,20,0,0,0,0,0,1,1,10,2.5,4,20,0,0,0,0,0,2,0,30,7.5,4,20,0,0,0,0,0,0,1,3,82
+
+Here’s how:
+1. **Add a New Gear:**
+   - Go to the **Gears** section of the website.
+   - Click on **Add New** to create a new gear.
+
+2. **Specify the Number of Teeth:**
+   - In the **Gear Properties** section, you can specify the number of teeth for the gear.
+   - Enter the desired number of teeth to match your design requirements.
+
+3. **Connect the Gears:**
+   - To connect gears together or place them in the correct configuration, go to the **Connection Properties** section.
+   - Click on **Axle Connection** to ensure the gears are properly meshed and connected.
+
+This will allow you to set up and visualize the gear train to achieve the desired gear ratio.
+
